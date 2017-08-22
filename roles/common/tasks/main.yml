@@ -60,6 +60,7 @@
     - wavemon
     - telnet
     - speedtest-cli
+    - vim
   notify: reboot
 
 - name: Autoremove any unused packages
